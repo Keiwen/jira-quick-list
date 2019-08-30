@@ -1,6 +1,6 @@
 {
   "name": "jira-quick-list",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Manage a list of jira's tasks using a specific jira's filter",
   "author": "Keiwen <keiwen.mk@gmail.com>",
   "private": true,
