@@ -1,0 +1,8 @@
+export const ADD_MESSAGE = 'ADD_MESSAGE'
+export const REMOVE_MESSAGE = 'REMOVE_MESSAGE'
+export const CLEAR_MESSAGES = 'CLEAR_MESSAGES'
+
+export const SET_JIRA_LOGIN = 'SET_JIRA_LOGIN'
+export const SET_FILTER = 'SET_FILTER'
+export const REMOVE_FILTER = 'REMOVE_FILTER'
+export const PICK_FILTER = 'PICK_FILTER'

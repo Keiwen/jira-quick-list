@@ -1,0 +1,30 @@
+{
+  "name": "jira-quick-list",
+  "short_name": "jira-quick-list",
+  "icons": [
+    {
+      "src": "/jira-quick-list/static/img/icons/wmp-icon-64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/jira-quick-list/static/img/icons/wmp-icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/jira-quick-list/static/img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/jira-quick-list/static/img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#2684FF"
+}
